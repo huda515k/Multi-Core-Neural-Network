@@ -1,0 +1,20 @@
+# Compiled binaries
+neural_network
+*.o
+*.out
+
+# Output files
+output.txt
+test_output.txt
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
